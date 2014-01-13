@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.Text.Lang", "System.Text.Lang\System.Text.Lang.csproj", "{41D7CCB0-58DF-4FF6-B20F-25BC689C537A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangExtensionsTests", "LangExtensionsTest\LangExtensionsTests.csproj", "{F980DD25-CAB2-4FEC-BCFC-8DB8D142E5BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41D7CCB0-58DF-4FF6-B20F-25BC689C537A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D7CCB0-58DF-4FF6-B20F-25BC689C537A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D7CCB0-58DF-4FF6-B20F-25BC689C537A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D7CCB0-58DF-4FF6-B20F-25BC689C537A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F980DD25-CAB2-4FEC-BCFC-8DB8D142E5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F980DD25-CAB2-4FEC-BCFC-8DB8D142E5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F980DD25-CAB2-4FEC-BCFC-8DB8D142E5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F980DD25-CAB2-4FEC-BCFC-8DB8D142E5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
